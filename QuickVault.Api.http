@@ -1,0 +1,6 @@
+@QuickVault.Api_HostAddress = http://localhost:5002
+
+GET {{QuickVault.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
